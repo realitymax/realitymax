@@ -18,25 +18,9 @@
 
 - :mailbox:  Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-realitymax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realitymax) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:offers.realitymax@gmail.com)
 
----
-
-### 🤝  Социальные сети:
-
-  <div id="badges">
-     </a>
-    <!-- <a href="https://t.me/realitymax" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    </a> -->
-    <a href="https://vk.com/realitymax" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a> -->
-  </div>
 
 ---
+
 
 ### 💻  Технологии:
 
