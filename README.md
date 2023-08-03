@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist:  Обо мне:
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Имею опыт работы в программе VK Testers и разработке конфигураций 1С. Кроме того, я также обладаю навыками веб-дизайна, которые я постоянно совершенствую  и прошел различные онлайн-курсы в сфере it, получив сертификаты о прохождении. Моя страсть к технологиям и желание создавать красивые и функциональные веб-сайты и приложения позволят мне помочь вам достичь ваших целей в IT-сфере.
 
@@ -10,17 +10,17 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в программе VK Testers.
+- :telescope:  Участвовал в программе VK Testers.
 
-- :seedling: Завершил различные курсы на образовательной платформе Stepik!
+- :seedling:  Завершил различные курсы на образовательной платформе Stepik!
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-realitymax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realitymax) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:offers.realitymax@gmail.com)
+- :mailbox:  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-realitymax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realitymax) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:offers.realitymax@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝  Социальные сети:
 
   <div id="badges">
      </a>
@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻  Технологии:
 
 <div>
   <img src="https://img.shields.io/badge/Phyton-blue?style=for-the-badge&logo=python&logoColor=orange"/> <img src="https://img.shields.io/badge/1C-yellow?style=for-the-badge&logo=1C&logoColor=orange"/> 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠  Инструменты:
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
@@ -57,36 +57,28 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 --- -->
 
-### 💻 Codewars:
+### 💻  Codewars:
 
 ![codewars](https://www.codewars.com/users/realitymax/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️  GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=realitymax&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="198px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realitymax&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=realitymax&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realitymax)
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/realitymax" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=realiymax&&style=flat-square" align="center" />
+</div>  
